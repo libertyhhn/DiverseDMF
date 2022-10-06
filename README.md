@@ -2,7 +2,7 @@
 
 This repository contains the MATLAB code for HDDMF introduced in the following paper 
 
-	[Diverse Deep Matrix Factorization with Hypergraph Regularization for Multiview Data Representation](https://ieeexplore.ieee.org/document/9910368/authors#authors) (JAS 2022) 
+	[Diverse Deep Matrix Factorization with Hypergraph Regularization for Multiview Data Representation]  (https://ieeexplore.ieee.org/document/9910368/authors#authors) (JAS 2022) 
 
 
 ### Citation
